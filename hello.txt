@@ -3,3 +3,4 @@ Git is 啊 free software distributed under GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick AND simple..
+Dev branch is changing something.
